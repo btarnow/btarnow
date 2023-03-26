@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Becky</h1>
-<h3 align="center">I'm a former educator turned software engineer living in Indianapolis</h3>
+<h1>Hi 👋, I'm Becky</h1>
 
-- 📚 Check out my current project: [Everykid](https://github.com/btarnow/EveryKid)
+## About Me
+👩🏼‍💻 Hi, all! I am Becky Tarnowski, and I am an educator turned software engineer. I recently finished an intensive software engineering bootcamp through Hackbright Academy and am seeking a full time software engineering job. 
+
+During my seven years as an educator, I worked in Indianapolis Public Schools. When the pandemic hit, I realized that I had a knack for solving problems with technology. For example, when faced with the problem of how to get students their work virtually, I taught myself how to use a learning management system and led software training and enablement sessions for teachers and staff. 
+
+Looking forward, I hope to continue to solve problems with technology as an engineer. 
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
+
+
+## Project Highlight
+📚 Check out my current project: [Everykid](https://github.com/btarnow/EveryKid)
 
 
 ## Skill Set :muscle:
@@ -28,3 +38,5 @@
 
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|
 |--|
+
+
