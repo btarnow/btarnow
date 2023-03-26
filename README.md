@@ -7,7 +7,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tar
 ## Project Highlight
 <h3>Everykid</h3>
 Everykid is a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.
-
+<br>
 🤖 [GitHub Repo](https://github.com/btarnow/EveryKid)
 <br>
 📚 [Demo Site](http://18.216.150.110/)
