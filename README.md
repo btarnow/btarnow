@@ -1,4 +1,4 @@
-# Hello World <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello World 👋
 👩🏼‍💻 Hi, all! I am Becky Tarnowski, and I am an educator turned software engineer. I recently finished an intensive software engineering bootcamp through Hackbright Academy and am looking for a full time software engineering job. 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
