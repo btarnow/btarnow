@@ -11,7 +11,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tar
 
 
 ## Project Highlight
-📚 Check out my current project: [Everykid](https://github.com/btarnow/EveryKid)
+
+**Everykid** is a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.
+
+🤖 [GitHub Repo](https://github.com/btarnow/EveryKid)
+📚 [Demo Site] (http://18.216.150.110/)
+🎥 [See a full video walk-through](https://youtu.be/d1moGgvH0Ew)
 
 
 ## Skill Set :muscle:
