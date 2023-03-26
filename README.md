@@ -15,8 +15,8 @@
 
 **Libraries and Frameworks**
 
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">| <img title="PyTest" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-|--|--|--|
+<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">| <img title="PyTest" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>| <img title="Jinja2" width="40px" src="https://rajputhimanshu.files.wordpress.com/2018/02/jinja.jpg?resize=539%2C249">
+|--|--|--|--|
 
 
 **Databases**
