@@ -10,12 +10,13 @@ Looking forward, I hope to continue to solve problems with technology as an engi
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
 
 
-## Project Highlight
-
-**Everykid** is a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.
+## Project Highlight: Everykid
+<h3>Everykidis a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.</h3>
 
 🤖 [GitHub Repo](https://github.com/btarnow/EveryKid)
-📚 [Demo Site] (http://18.216.150.110/)
+<br>
+📚 [Demo Site](http://18.216.150.110/)
+<br>
 🎥 [See a full video walk-through](https://youtu.be/d1moGgvH0Ew)
 
 
