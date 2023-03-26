@@ -1,4 +1,4 @@
-## About Me
+## Hello World 👋🏼
 👩🏼‍💻 Hi, all! I am Becky Tarnowski, and I am an educator turned software engineer. I recently finished an intensive software engineering bootcamp through Hackbright Academy and am looking for a full time software engineering job. 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
@@ -15,7 +15,7 @@ Everykid is a full stack web application that helps teachers, parents, and careg
 🎥 [See a full video walk-through](https://youtu.be/d1moGgvH0Ew)
 <br>
 
-## Skill Set :muscle:
+## Skill Set 💪🏼
 
 **Programming Languages**
 
