@@ -1,17 +1,14 @@
 <h1>Hi 👋, I'm Becky</h1>
 
 ## About Me
-👩🏼‍💻 Hi, all! I am Becky Tarnowski, and I am an educator turned software engineer. I recently finished an intensive software engineering bootcamp through Hackbright Academy and am seeking a full time software engineering job. 
-
-During my seven years as an educator, I worked in Indianapolis Public Schools. When the pandemic hit, I realized that I had a knack for solving problems with technology. For example, when faced with the problem of how to get students their work virtually, I taught myself how to use a learning management system and led software training and enablement sessions for teachers and staff. 
-
-Looking forward, I hope to continue to solve problems with technology as an engineer. 
+👩🏼‍💻 Hi, all! I am Becky Tarnowski, and I am an educator turned software engineer. I recently finished an intensive software engineering bootcamp through Hackbright Academy and am looking for a full time software engineering job. 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
 
 
-## Project Highlight: Everykid
-<h3>Everykidis a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.</h3>
+## Project Highlight
+<h3>Everykid</h3>
+Everykid is a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.
 
 🤖 [GitHub Repo](https://github.com/btarnow/EveryKid)
 <br>
