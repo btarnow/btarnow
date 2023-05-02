@@ -41,12 +41,3 @@ Everykid is a full stack web application that helps teachers, parents, and careg
 <br>
 
 <img src="https://user-images.githubusercontent.com/113391507/227785145-fdc5f826-f109-4c4d-bf03-1799869a9b30.png" />
-
-<br>
-
-## GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=btarnow&show_icons=true&locale=en&layout=compact" alt="btarnow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btarnow&show_icons=true&locale=en" alt="btarnow" /></p>
-
