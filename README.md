@@ -1,6 +1,9 @@
 # Hello World 👋🏼
-My name is Becky Tarnowski, and I am an educator turned software engineer. I recently finished a software engineering bootcamp through Hackbright Academy and am looking for a full time software engineering job. 
+I am a Software Engineer with past experience in education. I am currently a Software Engineering Intern at Ironclad, where I am using TypeScript, React, and MongoDB.
 
+I learned to code through an intensive full stack software engineering fellowship called Hackbright Academy where I worked with Python, Flask, SQLAlchemy, JavaScript, HTML, CSS, SQL, and more. Through this fellowship, I built a full stack web app called Everykid to help users discover children’s books that celebrate diversity. Check it out in my featured section below!
+
+In addition to my technical skills, I bring nearly a decade of experience as a teacher and instructional coach. This experience equipped me with highly developed collaboration skills and an ability to cultivate strong relationships. It also gave me experience breaking down high level goals into smaller tasks, as I helped teachers and students work towards their specific growth aspirations and school goals, which translates well to the agile scrum process. 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
 
 ## My Skills
