@@ -2,7 +2,7 @@
 I am a software engineer with past experience in education. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/becky-tarnowski/)!
 
 ### Personal Project
-<h3>Everykid</h3>
+<h4>Everykid</h4>
 Everykid is a full stack web application that helps teachers, parents, and caregivers, easily find children’s books that celebrate diversity.
 
 
